@@ -2,16 +2,18 @@
 
 <p>
 Creator: Stephanie Graessle</br>  
-Version 1.0</br>  
+Version 1.0.0</br>  
 
-<!-->Project description here.<-->  
+[Link to Project on Replit](https://replit.com/@sgraessle/Comic-Recommendations)</br>  
+
+<!--Project description here.-->  
 
 </p>
 
 ## Change Log
 
 
-### Version 1.0 - January 21, 2022
+### Version 1.0.0 - January 21, 2022
 
 
 #### New Features
