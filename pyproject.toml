@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "repl_python3_Comic-Recommendations"
+version = "0.1.1"
+description = "This program gives webtoon and manga recommendations."
+authors = ["Stephanie Graessle <s.graessle27@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+google-api-python-client = "^2.28.0"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
